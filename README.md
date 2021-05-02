@@ -3,7 +3,7 @@ This is a modified version of an outdated version of MassDM written in C#
 Original/Outdated version: https://github.com/9s6/Discord-Massdm
 
 ## Installation
-You can either build it from source, or check the pre-built version in the releases section
+You can either build it from source, or check the pre-built version in the [releases section](https://github.com/BitSecLab/MassDM_v2/releases/tag/v4.3.2)
 
 ## How to run
 1. Disable all Anti-Viruses or it will corrupt the files
